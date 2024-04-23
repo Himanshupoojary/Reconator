@@ -4,7 +4,7 @@ Documentation for Reconator
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/gokulapap/Reconator">
+  <a href="https://github.com/Himanshupoojary/Reconator">
   <img src="./static/reconator.png" alt="reconator">
   </a>
   <br>
@@ -12,20 +12,20 @@ Documentation for Reconator
 
 
 <p align="center">
-  <a href="https://github.com/gokulapap/Reconator">
+  <a href="https://github.com/Himanshupoojary/Reconator">
     <img src="https://img.shields.io/badge/release-v1.0-green">
   </a>
    </a>
-  <a href="https://github.com/gokulapap/Reconator/blob/master/LICENSE">
+  <a href="https://github.com/Himanshupoojary/Reconator/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-GPL3-_red.svg">
   </a>
   <a href="https://twitter.com/CodingGokul">
     <img src="https://img.shields.io/badge/twitter-%40CodingGokul-blue">
   </a>
-    <a href="https://github.com/gokulapap/Reconator/issues?q=is%3Aissue+is%3Aclosed">
+    <a href="https://github.com/Himanshupoojary/Reconator/issues?q=is%3Aissue+is%3Aclosed">
     <img src="https://img.shields.io/github/issues-closed-raw/gokulapap/Reconator.svg">
   </a>
-  <a href="https://github.com/gokulapap/Reconator/wiki">
+  <a href="https://github.com/Himanshupoojary/Reconator/wiki">
     <img src="https://img.shields.io/badge/doc-wiki-blue.svg">
   </a>
   <a href="https://t.me/+cpbGih_iO50wNDg1">
@@ -50,7 +50,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 
 ## ⚙️ Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gokulapap/reconator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Himanshupoojary/reconator)
 
 ## 📋 Requirements
 
